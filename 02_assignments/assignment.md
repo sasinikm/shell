@@ -37,10 +37,10 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 Your answer here...
 1. Paper Rings
 2. 10
-3. Last
-4. Legacies
+3. Meets
+4. Past
 5. Lucky
-6. the
+6. Stars
 ```
 
 |Criteria|Complete|Incomplete|
